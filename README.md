@@ -22,9 +22,9 @@ This work combines the following computations that culminate in the Jupyter note
   * *Duration* is essentially first-to-last appearance of the species in the following fossil databases:
     * The Paleobiology Database (https://paleobiodb.org)
     * The NOW (New and Old Worlds) fossil mammal database (https://nowdatabase.org/)
-  * e.g., median duration estimates found here: 5.2Myr for all mammalia and 3.5Myr for primates
+  * e.g., median duration estimates found here: 5.2Myr for all mammalia, 3.5Myr for primates, and even less for the homo genus
 
-**The primary conclusion is that the time-remaining for modern humans is...well...inconclusive. The three structurally different methods used here produce answers that differ by roughly four to five orders of magnitude.**
+**The primary conclusion is that the time-remaining for modern humans is...well...inconclusive. The three structurally different methods used here produce answers that differ by roughly four to five orders of magnitude.** That's it. That's the result of all this effort. Along with the modeling choice, another problem is the lack of sufficient data on the homo genus, which began less than 3M years ago. That is such a small time scale. For example, if we layout the 4.5B years of earth's existence on a yard stick (~1m), then the homo genus timeline occupies less than 1mm at the very end. But, it's still ongoing, and hopefully, for much, much longer.
 
 All of the work here is captured in Jupyter notebooks. Here is a description of the relevant notebooks:
 * **human_population_bayesian_model_v5.ipynb** -- Derivation of a Bayesian model of the total number of humans ever born (build by Claude.AI)
