@@ -1,0 +1,6 @@
+links_to_papers.txt
+
+Sanchez-Romero, et al.: https://www.researchgate.net/publication/317135287_How_many_old_people_have_ever_lived
+
+Cohen: https://www.demographic-research.org/articles/volume/30/56
+
