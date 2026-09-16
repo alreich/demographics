@@ -1,6 +1,35 @@
 links_to_papers.txt
 
+---------------------------------------------
+Papers referenced in "How_Many_Humans.ipynb"
+---------------------------------------------
+
 Sanchez-Romero, et al.: https://www.researchgate.net/publication/317135287_How_many_old_people_have_ever_lived
+
+   Also see this and related references at this link: https://www.demographic-research.org/articles/volume/36/54
 
 Cohen: https://www.demographic-research.org/articles/volume/30/56
 
+Kremer: https://faculty.econ.ucdavis.edu/faculty/gclark/210a/readings/kremer1993.pdf
+
+
+------------------------------
+
+Fucks, Winkler, and Keyfitz refers to a prominent triad of demographic researchers—Wilhelm Fucks, Wilhelm Winkler, and Nathan Keyfitz—frequently cited together for initiating the foundational mathematical methodologies used to estimate "how many people have ever been born?" [1] 
+
+In mathematical demography, their combined early works established the core framework for calculating historical cumulative births. Modern demographic studies build directly upon their equations to tackle related quantitative questions, such as estimating the proportion of elderly people who have ever lived versus those alive today. [1, 2, 3] 
+
+## Individual Backgrounds
+
+* Wilhelm Fucks: A German physicist and researcher who applied strict mathematical and statistical models to social sciences and population growth trends.
+* Wilhelm Winkler: A prominent Austrian statistician and demographer known for his extensive work on population theory, structural analysis, and statistical methodologies.
+* Nathan Keyfitz: A pioneering Canadian sociologist and statistician widely considered one of the most influential mathematical demographers of the 20th century. He authored foundational textbooks such as [Applied Mathematical Demography](https://link.springer.com/book/10.1007/978-1-4757-1879-9). [4, 5, 6] 
+
+[1] [https://www.ingentaconnect.com](https://www.ingentaconnect.com/content/10.4054/DemRes.2017.36.54)
+[2] [https://www.demographic-research.org](https://www.demographic-research.org/articles/volume/36/54)
+[3] [https://www.researchgate.net](https://www.researchgate.net/figure/Ratio-of-people-age-65-who-are-alive-in-year-T-to-people-who-ever-lived-to-age-65-until_fig4_317135287)
+[4] [https://methods.sagepub.com](https://methods.sagepub.com/foundations/download/keyfitz-nathan)
+[5] [https://en.wikipedia.org](https://en.wikipedia.org/wiki/Nathan_Keyfitz)
+[6] [https://link.springer.com](https://link.springer.com/book/10.1007/978-1-4757-1879-9)
+
+------------------------------
